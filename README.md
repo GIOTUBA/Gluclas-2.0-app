@@ -291,7 +291,7 @@ This negative-time functionality is intentional. In clinical clamp workflows, ba
 ### Example CSV
 A complete example CSV file is provided in this repository:
 
-[📥 Download `Smoothed_OGTT_for_GLUCLAS2_example.csv`](LINK_DELL_ASSET)
+[📥 Download `Smoothed_OGTT_for_GLUCLAS2_example.csv`](https://github.com/GIOTUBA/Gluclas-2.0-app-apk/releases/download/v1.0.0-paper/Smoothed_OGTT_for_GLUCLAS2_example.csv)
 
 Please use this file as the canonical example when preparing input files for the application.
 
