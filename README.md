@@ -1,9 +1,3 @@
-# Gluclas-2.0-app-apk
-This repository contains **only the compiled Android application (.apk)** for the Gluclas 2.0 mobile app, developed to support glucose clamp experiments.
-
-⚠️ **Source code is NOT included in this repository.**
-
-
 # Gluclas 2.0
 
 **Gluclas 2.0** is an open-source mobile application for clinical decision support during ISOglycemic intravenous glucose (ISO-IV) clamp experiments.
