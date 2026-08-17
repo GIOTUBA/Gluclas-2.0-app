@@ -308,7 +308,8 @@ No Flutter development environment is required to install and use the released a
 
 The full source code of the application is available in the following repository:
 
-👉 https://github.com/GIOTUBA/Gluclas-2.0-app
+👉 https://github.com/GIOTUBA/Gluclas-2.0-app-source-code
+
 
 The source code repository contains the complete Flutter project and is intended for developers who want to inspect, modify, or build the application from source.
 
