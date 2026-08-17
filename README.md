@@ -289,10 +289,9 @@ When a time earlier than −10 minutes is entered, the application displays an e
 This negative-time functionality is intentional. In clinical clamp workflows, baseline samples may be collected before the oral glucose load, which is conventionally used as the `t = 0` reference point.
 
 ### Example CSV
-
 A complete example CSV file is provided in this repository:
 
-[📥 Download `Smoothed_OGTT_for_GLUCLAS2_example.csv`](https://raw.githubusercontent.com/GIOTUBA/Gluclas-2.0-app-apk/main/examples/Smoothed_OGTT_for_GLUCLAS2_example.csv)
+[📥 Download `Smoothed_OGTT_for_GLUCLAS2_example.csv`](LINK_DELL_ASSET)
 
 Please use this file as the canonical example when preparing input files for the application.
 
