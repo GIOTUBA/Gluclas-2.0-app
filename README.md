@@ -292,7 +292,7 @@ This negative-time functionality is intentional. In clinical clamp workflows, ba
 
 A complete example CSV file is provided in this repository:
 
-[`Smoothed_OGTT_for_GLUCLAS2_example.csv`](./examples/Smoothed_OGTT_for_GLUCLAS2_example.csv)
+[📥 Download `Smoothed_OGTT_for_GLUCLAS2_example.csv`](https://raw.githubusercontent.com/TUO-USERNAME/TUA-REPOSITORY/main/examples/Smoothed_OGTT_for_GLUCLAS2_example.csv)
 
 Please use this file as the canonical example when preparing input files for the application.
 
