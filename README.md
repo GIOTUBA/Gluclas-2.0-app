@@ -299,7 +299,7 @@ Please use this file as the canonical example when preparing input files for the
 
 ## Installation
 
-You can download the latest .apk file from the Releases section of this repository and install it on an Android device.
+You can download the latest .apk file from the **[Releases](https://github.com/GIOTUBA/Gluclas-2.0-app/releases)** section of this repository and install it on an Android device.
 
 No Flutter development environment is required to install and use the released application.
 
