@@ -242,14 +242,14 @@ The supported structure is described below.
 
 ### Required structure
 
-The input CSV file must contain **exactly two data columns**:
+The input CSV file must contain **exactly two data rows**:
 
-| Column   | Description                | Expected content                                     |
+| Row      | Description                | Expected content                                     |
 | -------- | -------------------------- | ---------------------------------------------------- |
 | `time`   | Measurement/reference time | Time in minutes relative to the OGTT reference point |
 | `values` | Blood glucose value        | Blood glucose concentration in mmol/L                |
 
-The expected column names are:
+The expected row names are:
 
 ```text
 time
@@ -264,9 +264,9 @@ The file therefore represents pairs of:
 
 where `time` is expressed in minutes and `values` represents blood glucose concentration in mmol/L.
 
-### Time column
+### Time row
 
-The `time` column contains the time associated with each glucose value.
+The `time` row contains the time associated with each glucose value.
 
 The OGTT is baseline-anchored at:
 
@@ -288,9 +288,9 @@ t = 5 min
 ...
 ```
 
-### Values column
+### Values row
 
-The `values` column contains blood glucose concentrations.
+The `values` row contains blood glucose concentrations.
 
 The BG values are expressed in:
 
