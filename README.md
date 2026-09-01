@@ -23,8 +23,6 @@ Gluclas 2.0 implements a **Proportional-Integral-Derivative (PID) controller wit
 * [Installation](#installation)
 * [Source code](#source-code)
 * [Disclaimer](#disclaimer)
-* [License](#license)
-* [How to cite](#how-to-cite)
 * [Contact](#contact)
 
 ---
@@ -350,3 +348,14 @@ It is an investigational tool intended to provide infusion-rate suggestions duri
 The authors and developers of Gluclas 2.0 assume no responsibility for medical consequences resulting from inappropriate interpretation or use of the software.
 
 This disclaimer is consistent with the statement included in the scientific manuscript.
+
+---
+
+## Contact
+
+For questions, bug reports, or collaboration inquiries, please:
+
+- open an [issue](https://github.com/GIOTUBA/Gluclas-2.0-app/issues) on this repository, or
+- contact Giovanni Tubaro at **[giovannitubaro@gmail.com]**
+
+*(replace with your preferred contact method)*
