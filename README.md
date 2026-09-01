@@ -327,6 +327,7 @@ You can download the latest .apk file from the **[Releases](https://github.com/G
 
 No Flutter development environment is required to install and use the released application.
 
+--- 
 
 ## Source code
 
