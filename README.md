@@ -240,6 +240,8 @@ The input CSV file must contain **exactly two data rows**:
 | `time`   | Measurement/reference time | Time in minutes relative to the OGTT reference point |
 | `values` | Blood glucose value        | Blood glucose concentration in mmol/L                |
 
+Both rows are mandatory. If the `time` row is missing or omitted, the application does not apply a default time assignment (e.g. assuming t = 0 for the first entry): a correctly formatted file containing both rows is required.
+
 The expected row names are:
 
 ```text
