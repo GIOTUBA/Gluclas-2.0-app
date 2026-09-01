@@ -124,7 +124,7 @@ The investigator can also configure the glucose concentration of the solution us
 
 During the experiment, the investigator enters each available BG measurement together with its corresponding measurement time.
 
-The measurement timestamp is deliberately operator-adjustable.
+The timestamp is entered manually rather than fully automated, by design: blood sampling occurs at a given time *t*, while the corresponding BG value becomes available only after sample preprocessing and analysis (*t + Δ*, with Δ typically ranging from 30 seconds to 2 minutes). To keep this variable processing delay out of the recorded glucose trajectory, the investigator can report the actual blood-sampling time rather than the time at which the value becomes available. To ease this step, the timestamp field is automatically pre-populated with the current experiment time and can be adjusted manually if needed.
 
 ### 6. Review the GIR suggestion
 
