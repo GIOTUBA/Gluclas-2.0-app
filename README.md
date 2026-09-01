@@ -21,6 +21,8 @@ Gluclas 2.0 implements a **Proportional-Integral-Derivative (PID) controller wit
 * [OGTT reference input](#ogtt-reference-input)
 * [CSV input file format](#csv-input-file-format)
 * [Installation](#installation)
+* [Source code](#source-code)
+* [Disclaimer](#disclaimer)
 * [License](#license)
 * [How to cite](#how-to-cite)
 * [Contact](#contact)
