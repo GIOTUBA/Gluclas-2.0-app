@@ -124,7 +124,7 @@ The investigator can also configure the glucose concentration of the solution us
 
 During the experiment, the investigator enters each available BG measurement together with its corresponding measurement time.
 
-The measurement timestamp is deliberately operator-adjustable; see [Timestamp handling during the experiment](#timestamp-handling-during-the-experiment).
+The measurement timestamp is deliberately operator-adjustable.
 
 ### 6. Review the GIR suggestion
 
