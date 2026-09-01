@@ -16,6 +16,7 @@ Gluclas 2.0 implements a **Proportional-Integral-Derivative (PID) controller wit
 * [Clinical and technical background](#clinical-and-technical-background)
 * [Main features](#main-features)
 * [Application workflow](#application-workflow)
+* [Mobile app interface](#-mobile-app-interface)
 * [Patient information](#patient-information)
 * [OGTT reference input](#ogtt-reference-input)
 * [CSV input file format](#csv-input-file-format)
@@ -160,6 +161,38 @@ At the end of the experiment, the recorded experiment data and notes can be expo
 
 ---
 
+## 📱 Mobile app interface
+
+The following screenshots illustrate the main steps of a typical Gluclas 2.0 workflow.
+
+### Experiment initiation
+
+The experiment starts from the home screen. The investigator then enters the patient information, uploads the smoothed OGTT reference curve, and confirms the reference trajectory before starting the experiment.
+
+| Home | Patient information |
+| --- | --- |
+| <img src="./images/home.png" width="250"> | <img src="./images/onboarding.png" width="250"> |
+
+| Reference upload | Reference confirmation |
+| --- | --- |
+| <img src="./images/reference_upload.png" width="250"> | <img src="./images/reference_confirmation.png" width="250"> |
+
+### Measurement and GIR suggestion
+
+During the experiment, the investigator enters the measured BG value and its corresponding measurement time. Gluclas 2.0 then provides a GIR suggestion, which can be reviewed and modified before being implemented on the infusion pump.
+
+| BG measurement | GIR suggestion |
+| --- | --- |
+| <img src="./images/bg_measurement.png" width="250"> | <img src="./images/gir_suggestion.png" width="250"> |
+
+### Experiment monitoring
+
+During the clamp, the experiment screen provides visual feedback on the glucose trajectory and glucose infusion rate. The investigator can enter additional measurements, correct previously recorded data, and add notes during the experiment.
+
+| Experiment monitoring | Experiment monitoring |
+| --- | --- |
+| <img src="./images/experiment_1.png" width="250"> | <img src="./images/experiment_2.png" width="250"> |
+---
 ## Patient information
 
 ### Mandatory fields
