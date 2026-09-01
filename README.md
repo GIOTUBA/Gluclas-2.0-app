@@ -356,4 +356,4 @@ This disclaimer is consistent with the statement included in the scientific manu
 For questions, bug reports, or collaboration inquiries, please:
 
 - open an [issue](https://github.com/GIOTUBA/Gluclas-2.0-app/issues) on this repository, or
-- contact **[Giovanni Tubaro]** at **[giovannitubaro@gmail.com]**
+- contact **Giovanni Tubaro** at **[giovannitubaro@gmail.com]**
